@@ -1,8 +1,8 @@
- **Front-end Developer**
+ ###  **Front-end Developer**
 
 - - - 
 
-**Contacts:**
+###  **Contacts:**
 
 - **Location:**  Minsk, Belarus
 - **LinkedIn:**  [viachaslau-pailak](https://www.linkedin.com/feed/)
@@ -11,7 +11,7 @@
 
 - - - 
 
-**Skills:**
+###  **Skills:**
 
 - HTML
 - CSS
@@ -20,7 +20,7 @@
 
 - - - 
 
-**Education:**
+###  **Education:**
 
 - **University:**
   - Minsk State Linguistic University, German language teacher.
@@ -30,7 +30,7 @@
   - [FreeCodeCamp](https://www.freecodecamp.org/)
   - [Udemy / JavaScript](https://www.udemy.com/course/the-complete-javascript-course/)
 
-**Languages:**
+###  **Languages:**
 
 - **English:**  Pre-Intermediate
 - **German:**  C1

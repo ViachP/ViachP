@@ -30,6 +30,7 @@
   - [IT Academy, Software Testing](https://www.it-academy.by/)
   - [FreeCodeCamp](https://www.freecodecamp.org/)
   - [Udemy / JavaScript](https://www.udemy.com/course/the-complete-javascript-course/)
+  - [RS School](https://rs.school/)
 
 ###  **Languages:**
 

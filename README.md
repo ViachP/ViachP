@@ -14,7 +14,7 @@
 ###  **Skills:**
 
 - HTML
-- CSS
+- CSS / Sass
 - JavaScript
 - React
 - Git / GitHub

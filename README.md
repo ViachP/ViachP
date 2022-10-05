@@ -15,6 +15,7 @@
 
 - HTML
 - CSS / Sass
+- Tailwind CSS
 - JavaScript
 - React
 - Git / GitHub
